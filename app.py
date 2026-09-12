@@ -1,4 +1,4 @@
-# === এখানেই কাস্টমারের জন্য চেঞ্জ করবা ===
+=== এখানেই কাস্টমারের জন্য চেঞ্জ করবা ===
 HOSPITAL_NAME = "City Hospital Parking"
 OWNER_NAME = "City Hospital"
 LOGO_EMOJI = "🏥"
